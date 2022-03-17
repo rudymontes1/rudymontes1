@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rodolfo Montes
+- 👀 I’m interested in becoming a software developer
+- 🌱 I’m currently learning html,css and javascript at the moment
+- 💞️ I’m looking to collaborate on any project that will help me gain skill and knowledge
+- 📫 How to reach me @rudymontes1@hotmail.com 
